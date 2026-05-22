@@ -12,6 +12,6 @@
 
 <div align="center">  
 
-<img width="550px" src="https://nirzak-streak-stats.vercel.app/?user=rashadalsharpini&theme=shadow_blue&hide_border=false">
+<img width="550px" src="https://streak-stats.demolab.com/?user=rashadalsharpini&theme=shadow_blue&hide_border=false">
 
 </div>
