@@ -40,7 +40,7 @@ export const projectData: ProjectData[] = [
       {
         text: 'pomo-tui',
         description:
-          '',
+          'pomodoro tui that can connect to discord perfect for "study with me"',
         icon: 'i-carbon-logo-github',
         href: 'https://github.com/hexbyte16/rust-pomo-discord/pull/1',
       },
