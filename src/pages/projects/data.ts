@@ -30,6 +30,20 @@ export const projectData: ProjectData[] = [
         icon: 'i-carbon-logo-github',
         href: 'https://github.com/sagemath/sage/issues?q=author%3Arashadalsharpini',
       },
+      {
+        text: 'ChatBang',
+        description:
+          'A CLI tool to access ChatGPT from the terminal without an API key',
+        icon: 'i-carbon-logo-github',
+        href: 'https://github.com/ahmedhosssam/chatbang/pull/1',
+      },
+      {
+        text: 'pomo-tui',
+        description:
+          '',
+        icon: 'i-carbon-logo-github',
+        href: 'https://github.com/hexbyte16/rust-pomo-discord/pull/1',
+      },
     ],
   },
 ]
