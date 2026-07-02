@@ -5,7 +5,7 @@ import { defineConfig } from 'astro/config'
 import UnoCSS from 'unocss/astro'
 
 export default defineConfig({
-  site: 'https://rashadalsharpini.github.io',
+  site: 'https://rashadrsx.github.io',
   server: {
     port: 1977,
   },

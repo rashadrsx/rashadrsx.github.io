@@ -13,7 +13,7 @@ export const siteConfig = {
   socialLinks: [
     {
       text: 'GitHub',
-      href: 'https://github.com/rashadalsharpini',
+      href: 'https://github.com/rashadrsx',
       icon: 'i-simple-icons-github',
       header: 'i-ri-github-line',
     },
@@ -24,7 +24,7 @@ export const siteConfig = {
     },
     {
       text: 'Twitter',
-      href: 'https://x.com/@rscp69',
+      href: 'https://x.com/@rashadrsx',
       icon: 'i-simple-icons-x',
       header: 'i-ri-twitter-x-line',
     },
@@ -95,7 +95,7 @@ export const siteConfig = {
       },
       {
         text: 'GitHub',
-        href: 'https://github.com/rashadalsharpini',
+        href: 'https://github.com/rashadrsx',
       },
       {
         text: 'Linkedin',
@@ -103,7 +103,7 @@ export const siteConfig = {
       },
       {
         text: 'X',
-        href: 'https://x.com/rscp69',
+        href: 'https://x.com/rashadrsx',
       },
     ],
   },
