@@ -42,7 +42,7 @@ export const projectData: ProjectData[] = [
         description:
           'pomodoro tui that can connect to discord perfect for "study with me"',
         icon: 'i-carbon-logo-github',
-        href: 'https://github.com/hexbyte16/rust-pomo-discord/pull/1',
+        href: 'https://github.com/hxb8/termdoro/issues?q=author%3Arashadrsx',
       },
     ],
   },
