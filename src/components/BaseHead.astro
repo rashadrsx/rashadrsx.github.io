@@ -42,6 +42,15 @@ function formatCanonicalURL(url: string | URL) {
 <link rel="icon" type="image/svg+xml" href="/favicon.svg" id="favicon" />
 
 <script is:inline>
+  ;(function() {
+    var stored = localStorage.getItem('vueuse-color-scheme')
+    if (stored === 'dark' || (!stored && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
+      document.documentElement.classList.add('dark')
+    }
+  })()
+</script>
+
+<script is:inline>
   function updateFavicon() {
     const favicon = document.getElementById('favicon')
     if (!favicon) {
