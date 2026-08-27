@@ -1,6 +1,6 @@
 ---
 title: mcp vs. rag
-tags: ["LLM"]
+tags: ["LLM", 5 mins]
 date: 2026-02-06
 time: 12:02
 description: A comparison of MCP (Model Context Protocol) and RAG (Retrieval Augmented Generation)
