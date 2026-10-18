@@ -2,7 +2,7 @@ import type { ProjectData } from '@/types'
 
 export const projectData: ProjectData[] = [
   {
-    title: 'Graduation project',
+    title: 'Projects',
     projects: [
       {
         text: 'XCloud',
