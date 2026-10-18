@@ -14,7 +14,7 @@ export const projectData: ProjectData[] = [
       {
         text: 'rsx.iso',
         description:
-          'Build your own Arch Linux ISO from dotfiles: choose apps, drivers, and Docker containers, clone, edit, and knit it into something completely yours',
+          'Build your own Arch Linux ISO from dotfiles: choose config, apps, drivers, and Docker containers, clone, edit, and knit it into something completely yours',
         icon: 'i-carbon-logo-github',
         href: 'https://github.com/rashadrsx/rsx.iso',
       },
