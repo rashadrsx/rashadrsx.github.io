@@ -21,7 +21,7 @@ export const projectData: ProjectData[] = [
       {
         text: 'Whisper Stt',
         description:
-          'This project uses the faster-whisper library to provide fast and accurate audio and video transcription. It can be used to transcribe single files or to watch a directory and automatically transcribe new files as they are added. ',
+          'Transcribe books, movies, episodes, and any other audio/video into .srt subtitles — GPU-accelerated, one command.',
         icon: 'i-carbon-logo-github',
         href: 'https://github.com/rashadrsx/whisperstt',
       },
